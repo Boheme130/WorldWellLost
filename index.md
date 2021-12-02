@@ -5,13 +5,14 @@
 ![avatar](https://i.loli.net/2021/12/03/75UrPtE9u2sf4Bj.jpg)
 
 
-作品：The World Well Lost
-作者： Theodore Sturgeon
-评分：4.8/5
-一篇值得精读的小说，只有20页
+作品：The World Well Lost <br>
+作者： Theodore Sturgeon <br>
+评分：4.8/5 <br>
+一篇值得精读的小说，只有20页 <br>
 
 关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻
 
+## 剧情：
 在未来，两个Dirbanu星球的外星人来到了地球，他们如胶似漆充满爱意，地球人给他们取名叫”鸳鸯”(Loverbirds)，几乎所有地球人都被他们之间的爱意感动。地球当时为了开阔资源不断和外星文明交流，在许多年前他们第一次发现了Dirbanu星球，Dirbanu的大使第一次造访地球，却因不明原因对地球充满鄙夷迅速离开，并且开启了Dirbanu星球的特殊磁场，从此地球和Dirbanu星球再无交流。
 
 地球突然接到Dirbanu星球通讯，要求地球引渡Loverbirds二人，因为他们是Dirbanu星球的罪犯。地球把这视作一次和Dirbanu展开正式交流的机会，于是人类Rootes和Grunty被委以重任，押送Loverbirds返回Dirbanu星球。
@@ -28,8 +29,10 @@ Rootes醒来发现外星人跑了大发雷霆，Grunty给Rootes看了四幅画�
 
 两人对Dirbanu谎称Loverbirds自然死亡。在返航的过程中，Rootes再一次昏了过去，Grunty望着昏迷的船长，他终于说出了他内心的秘密：他爱的人就是Rootes。他把对Rootes的爱意藏在心中，用一浪接一浪的诗词默默倾泻对Rootes的爱意。前文他隐晦的内心活动谜团终于解开。
 
+<br>
+<br>
 
-Homophobia & Euphemism
+## Homophobia & Euphemism
 这是一篇写于1953年的美国小说，美国战后社会日趋保守，少数群体遭受压迫。作者给他的杂志编辑这篇小说时被立刻退稿，他的编辑还试图动用关系在杂志界封杀他，这篇小说在当时引起的轰动，也是美国社会恐同情绪的缩影。
 
 小说中借Grunty的内心活动隐晦地批评了未来地球的压抑社会风气，Grunty作为性少数群体，只有逃离地球，在孤独的太空里才得以喘气。他心目中的地球物欲横流，地球人却道貌岸然，创造出了许多虚伪的社会规则来掩盖本质上的糜烂，然而这些本质上的放纵和糜烂都是以heteronormativity为标准，边缘群体不仅于此无关还会遭受迫害。书中未来世界的地球和1950s的美国有着许多相似之处。
