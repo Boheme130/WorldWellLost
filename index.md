@@ -2,7 +2,7 @@
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 <br>
 <br>
-![avatar](https://i.loli.net/2021/12/03/75UrPtE9u2sf4Bj.jpg)
+![avatar](https://i.ibb.co/jkCvppN/IMG-1849.jpg)
 
 
 作品：The World Well Lost <br>
